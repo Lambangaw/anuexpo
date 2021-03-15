@@ -167,6 +167,22 @@ color: #FFFFFF;
   color: #ffffff;
 }
 
+.title-section4 {
+	font-family: "Raleway";
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+/* identical to box height, or 133% */
+
+/* display: flex; */
+align-items: center;
+text-align: center;
+
+color: #3F0B3E;
+
+}
+
 .txt1 {
   font-family: "Raleway";
   font-style: normal;
@@ -206,6 +222,46 @@ line-height: 72px;
 /* align-items: center; */
 text-align: center;
 
+color: #FFFFFF;
+}
+
+.title-section2 {
+	font-family: "Raleway";
+font-style: normal;
+font-weight: 800;
+font-size: 60px;
+line-height: 70px;
+text-align: center;
+
+color: #3F0B3E;
+}
+
+.subtitle-section2 {
+	font-family: "Rubik";
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height, or 125% */
+
+text-align: center;
+
+color: #000000;
+
+opacity: 0.5;
+}
+
+.title-section5 {
+	font-family: "Raleway";
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 48px;
+/* identical to box height, or 133% */
+
+/* display: flex; */
+align-items: center;
+text-align: center;
 color: #FFFFFF;
 }
 
