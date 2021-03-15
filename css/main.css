@@ -265,6 +265,32 @@ text-align: center;
 color: #FFFFFF;
 }
 
+.title-section6 {
+	font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+/* display: flex; */
+align-items: center;
+text-align: center;
+
+color: #3E0B3D;
+}
+
+.subtitle-section6 {
+	font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 36px;
+/* identical to box height, or 120% */
+
+text-align: center;
+
+color: #3D0B3C;
+}
+
 .center-items {
   align-items: center;
   text-align: center;
